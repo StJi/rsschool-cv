@@ -3,4 +3,4 @@
 ### Skills: Python, C, C++, C#(WinForms, WPF, Unity)
 ### Education: UNN ITMM(2020-2024) - software engineering
 ### My English level is A1
-##  Contacs:  [VK](https://vk.com/f3e72f43) ph: +79101007438 email: denproko@yandex.ru
+##  Contacs:  [VK](https://vk.com/) ph:  email: 
